@@ -26,6 +26,13 @@ p {
     font-size: 12px;
     font-weight: 400;
 }
+footer {
+    margin: auto;
+    position: relative;
+    text-align: center;
+    top: 120px;
+    width: 80%;
+}
 .card-container {
     margin: 5% auto;
     position: relative;
@@ -46,7 +53,6 @@ p {
 #info-container {
     background-color: white;
     border-radius: 0 0 10px 10px;
-    height: auto;
     width: 100%;
     position: absolute;
 }
