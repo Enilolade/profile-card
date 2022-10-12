@@ -46,8 +46,9 @@ p {
 #info-container {
     background-color: white;
     border-radius: 0 0 10px 10px;
-    /* height: auto; */
+    height: auto;
     width: 100%;
+    position: absolute;
 }
 .statistics {
     margin-top: 20px;
